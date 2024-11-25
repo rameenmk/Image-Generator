@@ -1,0 +1,5 @@
+gradio==3.50.2
+transformers
+diffusers
+torch
+Pillow
